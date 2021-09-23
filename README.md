@@ -13,20 +13,33 @@ This project uses data provided by [Motivate](https://www.motivateco.com/), a bi
 
 The code provides the following information:
   1. **Popular times of travel** (i.e., occurs most often in the start time)
-    1. most common month
-    2. most common day of week
-    3. most common hour of day
+
+    most common month
+
+    most common day of week
+
+    most common hour of day
   2. **Popular stations and trip**
-    1. most common start station
-    2. most common end station
-    3. most common trip from start to end (i.e., most frequent combination of start station and end station)
+
+    most common start station
+
+    most common end station
+
+    most common trip from start to end (i.e., most frequent combination of start station and end station)
+
   3. **Trip duration**
-    1. total travel time
-    2. average travel time
+
+    total travel time
+
+    average travel time
+
   4. **User info**
-    1. counts of each user type
-    2. counts of each gender (only available for NYC and Chicago)
-    3. earliest, most recent, most common year of birth (only available for NYC and Chicago)
+
+    counts of each user type
+
+    counts of each gender (only available for NYC and Chicago)
+
+    earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 ### Files used
     * chicago.csv
@@ -36,4 +49,4 @@ The code provides the following information:
 ### Credits
 During writing my "bikeshare" program I referred to the post of Stack Overflow:
 
-    * [How do I expand the output display to see more columns of a Pandas DataFrame?](https://stackoverflow.com/questions/11707586/how-do-i-expand-the-output-display-to-see-more-columns-of-a-pandas-dataframe)
+[How do I expand the output display to see more columns of a Pandas DataFrame?](https://stackoverflow.com/questions/11707586/how-do-i-expand-the-output-display-to-see-more-columns-of-a-pandas-dataframe)
